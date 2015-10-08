@@ -2,6 +2,12 @@
 	"name": "nikolaspapirniywork/wp-codeception",
 	"version": "2.0",
 	"type": "wordpress-plugin",
+  	"repositories": [
+		{
+	  	"type": "composer",
+	  	"url": "http://wpackagist.org"
+		}
+	],
 	"require": {
 		"codeception/codeception": "2.0.11",
 		"fzaninotto/faker": "1.5.*@dev",
