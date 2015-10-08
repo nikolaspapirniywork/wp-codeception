@@ -1,6 +1,6 @@
 {
 	"name": "nikolaspapirniywork/wp-codeception",
-	"version": "1.0",
+	"version": "2.0",
 	"type": "wordpress-plugin",
 	"require": {
 		"codeception/codeception": "2.0.11",
