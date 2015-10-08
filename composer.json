@@ -1,5 +1,5 @@
 {
-	"name": "10up/wp-codeception",
+	"name": "nikolaspapirniywork/wp-codeception",
 	"type": "wordpress-plugin",
 	"require": {
 		"codeception/codeception": "2.0.11",
